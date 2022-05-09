@@ -1,0 +1,219 @@
+
+@font-face {
+    src: url(./fonts/muthiara.otf);
+    font-family:Muthiara;
+    
+ }
+ 
+ @font-face {
+    src: url(./fonts/adorable-mommia.otf);
+    font-family:Adorable Mommia;
+    
+ }
+
+ @font-face {
+    src: url(./fonts/shottery.otf);
+    font-family:Shottery;
+    
+ }
+
+
+ @font-face {
+    src: url(./fonts/summer-daisy-personal-use.ttf);
+    font-family:Summer Daisy;
+    
+ }
+
+
+ @font-face {
+    src: url(./fonts/Watermelon\ Script\ Demo.ttf);
+    font-family:Watermelon Script;
+    
+ }
+
+ 
+ @font-face {
+    src: url(./fonts/Averus\ \(DEMO\).ttf);
+    font-family:Averus;
+    
+ }
+
+
+ @font-face {
+    src: url(./fonts/Acids!.otf);
+    font-family:Acids;
+    
+ }
+
+
+ @font-face {
+    src: url(./fonts/Misty_Black.ttf);
+    font-family:Misty Black;
+    
+ }
+
+ @font-face {
+    src: url(./fonts/Comic\ Kings.otf);
+    font-family:Comic Kings;
+    
+ }
+
+ @font-face {
+    src: url(./fonts/GROBOLD.ttf);
+    font-family:Grobold;
+    
+ }
+
+ @font-face {
+    src: url(./fonts/Minecrafter.Reg.ttf);
+    font-family:Minecrafter;
+    
+ }
+
+ @font-face {
+    src: url(./fonts/Hello\ Sunshine.otf);
+    font-family:Comic Kings;
+    
+ }
+
+ @font-face {
+    src: url(./fonts/Candy\ Beans.otf);
+    font-family:Candy Beans;
+    
+ }
+
+ .t1{
+ 
+ font-family:Muthiara;
+ font-size: 120px;
+ text-align: center;
+ 
+ }
+
+.t2{
+
+    font-family:Adorable Mommia;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+
+.t3{
+
+    font-family:Summer Daisy;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t4{
+
+    font-family:Watermelon Script;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t5{
+
+    font-family:Shottery;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t6{
+
+    font-family:Misty Black;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+
+
+.t7{
+
+    font-family:Hello Sunshine;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+
+.t8{
+
+    font-family:Acids;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+
+
+.t9{
+
+    font-family: Grobold;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+
+.t10{
+
+    font-family:Comic Kings;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t11{
+
+    font-family:Minecrafter;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t12{
+
+    font-family:Averus;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t13{
+
+    font-family:Candy Beans;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t14{
+
+    font-family:Comic Kings;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+.t14{
+
+    font-family:Comic Kings;
+    font-size: 120px;
+    text-align: center;
+
+}
+
+style { background-color: style="background-color:#CCF3EE ;";}
+
+
+
+
+
+
+
