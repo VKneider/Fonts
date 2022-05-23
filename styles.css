@@ -1,215 +1,192 @@
-
 @font-face {
+
     src: url(./fonts/muthiara.otf);
     font-family:Muthiara;
     
- }
- 
- @font-face {
     src: url(./fonts/adorable-mommia.otf);
     font-family:Adorable Mommia;
     
- }
-
- @font-face {
     src: url(./fonts/shottery.otf);
     font-family:Shottery;
     
- }
-
-
- @font-face {
     src: url(./fonts/summer-daisy-personal-use.ttf);
-    font-family:Summer Daisy;
+    font-family:Summer Daisy Personal Use;
     
- }
-
-
- @font-face {
     src: url(./fonts/Watermelon\ Script\ Demo.ttf);
-    font-family:Watermelon Script;
+    font-family:Watermelon Script Demo;
     
- }
-
- 
- @font-face {
     src: url(./fonts/Averus\ \(DEMO\).ttf);
     font-family:Averus;
-    
- }
 
-
- @font-face {
     src: url(./fonts/Acids!.otf);
     font-family:Acids;
     
- }
-
-
- @font-face {
     src: url(./fonts/Misty_Black.ttf);
     font-family:Misty Black;
-    
- }
 
- @font-face {
     src: url(./fonts/Comic\ Kings.otf);
     font-family:Comic Kings;
-    
- }
 
- @font-face {
     src: url(./fonts/GROBOLD.ttf);
     font-family:Grobold;
-    
- }
 
- @font-face {
     src: url(./fonts/Minecrafter.Reg.ttf);
     font-family:Minecrafter;
-    
- }
 
- @font-face {
-    src: url(./fonts/Hello\ Sunshine.otf);
-    font-family:Hello Sunshine;
-    
- }
+    src: url(./fonts/Holas.otf);
+    font-family: hello sunshine ;
 
- @font-face {
     src: url(./fonts/Candy\ Beans.otf);
     font-family:Candy Beans;
+
+    src: url(./fonts/Bubblegum.ttf);
+    font-family:Bubblegum    ;
+
+    src: url(./fonts/Academic\ M54.ttf);
+    font-family:Academic M54    ;
+
+    src: url(./fonts/Gameplay.ttf);
+    font-family:Gameplay    ;
+
+    src: url(./fonts/I\ Love\ Glitter\ -\ OTF.otf);
+    font-family:iloveglitter    ;
+
+    src: url(./fonts/shaly.ttf);
+    font-family:Shaly    ;
+
+    src: url(./fonts/RAVIE.TTF);
+    font-family:Ravie    ;
+
+    src: url(./fonts/Starborn.ttf);
+    font-family:Starborn   ;
+
+    src: url(./fonts/Squirk.otf);
+    font-family:Squirk    ;
+
+    src: url(./fonts/FREESCPT.TTF);
+    font-family:Freestyle Script    ;
+
+    src: url(./fonts/Fingerling-Tall.ttf);
+    font-family:Fingerling Tall    ;
+
+    src: url(./fonts/cartoonist_kooky.ttf);
+    font-family:Cartoonist    ;
+
+    src: url(./fonts/Bloomer\ DEMO.otf);
+    font-family:Bloomer demo    ;
+
+    src: url(./fonts/Starfish.ttf);
+    font-family:Starfish    ;
+
+    src: url(./fonts/TASTY\ DONUTS.otf);
+    font-family:Tasty Donuts    ;
+
+    src: url(./fonts/the-roughly.ttf);
+    font-family:The Roughly   ;
+
+    src: url(./fonts/the-golden-roasted.ttf);
+    font-family:The Golden Roasted    ;
+
+    src: url(./fonts/Cherish\ Moment.otf);
+    font-family:Cherish Moment   ;
+
+    src: url(./fonts/BAUHS93.ttf);
+    font-family:Bauhaus;
+
+}
+ 
+ 
+.t1 ,.t2 ,.t3 ,.t4 ,.t5 ,.t6 ,.t7 ,.t8 ,.t9 ,.t10 ,.t11 ,.t12 ,.t13 ,.t14 ,.t15 ,.t16 ,.t17 ,.t18 ,.t19 ,.t20 ,.t21 ,.t22 ,.t23 ,.t24 ,.t25 ,.t26 ,.t27 ,.t28 ,.t29 ,.t30 ,.t31 ,.t32 ,.t33 ,.t34 ,.t35 {
+    font-size:120px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
     
- }
 
- .t1{
  
- font-family:Muthiara;
- font-size: 120px;
- text-align: center;
- 
- }
 
-.t2{
+body { background-color: #7FB5FF }
 
-    font-family:Adorable Mommia;
-    font-size: 120px;
+
+    #pepe{
+
+    font-size:20px;
+    font-weight: bold;
+    font-family: grobold;
     text-align: center;
+    }
 
+input {
+
+    width: 300px;
+    height: 50px;
+    border: 3px solid darkblue
 }
 
+.t1 {font-family: Adorable Mommia ;}
 
-.t3{
+.t2 {font-family: Adorable Mommia;
+     text-transform: uppercase}
 
-    font-family:Summer Daisy;
-    font-size: 120px;
-    text-align: center;
+.t3 {font-family: Muthiara;}
 
-}
+.t4 {font-family: Muthiara;
+    text-transform: uppercase}
 
-.t4{
-
-    font-family:Watermelon Script;
-    font-size: 120px;
-    text-align: center;
-
-}
-
-.t5{
-
-    font-family:Shottery;
-    font-size: 120px;
-    text-align: center;
-
-}
-
-.t6{
-
-    font-family:Misty Black;
-    font-size: 120px;
-    text-align: center;
-
-}
+.t5{font-family: Summer Daisy Personal Use;}
 
 
-
-.t7{
-
-    font-family:Hello Sunshine;
-    font-size: 120px;
-    text-align: center;
-
-}
+.t6 {font-family: Freestyle Script}
 
 
-.t8{
-
-    font-family:Acids;
-    font-size: 120px;
-    text-align: center;
-
-}
+.t7 {font-family:Watermelon Script Demo ;}
 
 
-
-.t9{
-
-    font-family: Grobold;
-    font-size: 120px;
-    text-align: center;
-
-}
+.t8 {font-family: Starfish;}
 
 
-.t10{
+.t9 {font-family: hello sunshine ;}
 
-    font-family:Hello Sunshine;
-    font-size: 120px;
-    text-align: center;
+.t10 {font-family:iloveglitter ;}
 
-}
 
-.t11{
+.t11 {font-family: Shottery ;}
 
-    font-family:Minecrafter;
-    font-size: 120px;
-    text-align: center;
 
-}
+.t12 {font-family:Shaly ;}
 
-.t12{
+.t13 {font-family:Cherish Moment ;}
 
-    font-family:Averus;
-    font-size: 120px;
-    text-align: center;
+.t14 {font-family:Fingerling Tall ;}
 
-}
+.t15 {font-family:Bloomer demo ;}
 
-.t13{
 
-    font-family:Candy Beans;
-    font-size: 120px;
-    text-align: center;
+.t16 {font-family:  Misty Black;}
+.t17 {font-family: Acids ;}
+.t18 {font-family: Averus;}
+.t19 {font-family: Bauhaus;}
+.t20 {font-family: Bubblegum;}
+.t21 {font-family: Candy Beans;}
+.t22 {font-family: Baby Monsta;}
+.t23 {font-family: Ravie;}
+.t24 {font-family: Starborn;}
+.t25 {font-family: Squirk;}
+.t26 {font-family: Comic Kings;}
+.t27 {font-family: Grobold;}
+.t28 {font-family: Cartoonist ;}
+.t29 {font-family: Minecrafter;}
+.t30 {font-family: Gameplay;}
+.t31 {font-family: sugarpunch demo;}
+.t32 {font-family: the-roughly;}
+.t33 {font-family: the golden roasted;}
+.t34 {font-family: tasty donuts;}
+.t35 {font-family: ;}
 
-}
 
-.t14{
-
-    font-family:Comic Kings;
-    font-size: 120px;
-    text-align: center;
-
-}
-
-.t14{
-
-    font-family:Comic Kings;
-    font-size: 120px;
-    text-align: center;
-
-}
-
-style { background-color: style="background-color:#CCF3EE ;";}
 
 
 
