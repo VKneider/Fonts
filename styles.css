@@ -30,9 +30,6 @@
     src: url(./fonts/GROBOLD.ttf);
     font-family:Grobold;
 
-    src: url(./fonts/Minecrafter.Reg.ttf);
-    font-family:Minecrafter;
-
     src: url(./fonts/Holas.otf);
     font-family: hello sunshine ;
 
@@ -92,6 +89,12 @@
 
     src: url(./fonts/BAUHS93.ttf);
     font-family:Bauhaus;
+
+}
+
+@font-face{
+    src: url(./fonts/Minecrafter.Reg.ttf);
+    font-family:Minecrafter;
 
 }
  
