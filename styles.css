@@ -2,95 +2,190 @@
 
     src: url(./fonts/muthiara.otf);
     font-family:Muthiara;
+
+}
+
+@font-face{
+    src: url(./fonts/GROBOLD.ttf);
+    font-family:Grobold;
     
+}
+
+@font-face{
+    src: url(./fonts/Holas.otf);
+    font-family: hello sunshine ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Candy\ Beans.otf);
+    font-family:Candy Beans;
+    
+}
+
+@font-face{
+    src: url(./fonts/Bubblegum.ttf);
+    font-family:Bubblegum    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Academic\ M54.ttf);
+    font-family:Academic M54    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Gameplay.ttf);
+    font-family:Gameplay    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/I\ Love\ Glitter\ -\ OTF.otf);
+    font-family:iloveglitter    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/shaly.ttf);
+    font-family:Shaly    ;
+    
+}
+
+@font-face{
     src: url(./fonts/adorable-mommia.otf);
     font-family:Adorable Mommia;
-    
+
+}
+
+@font-face{
     src: url(./fonts/shottery.otf);
     font-family:Shottery;
     
-    src: url(./fonts/summer-daisy-personal-use.ttf);
-    font-family:Summer Daisy Personal Use;
+}
+
+@font-face{
+    src: url(./fonts/BAUHS93.ttf);
+    font-family:Bauhaus;
     
-    src: url(./fonts/Watermelon\ Script\ Demo.ttf);
-    font-family:Watermelon Script Demo;
+}
+
+@font-face{
+    src: url(./fonts/Cherish\ Moment.otf);
+    font-family:Cherish Moment   ;
     
-    src: url(./fonts/Averus\ \(DEMO\).ttf);
-    font-family:Averus;
+}
 
-    src: url(./fonts/Acids!.otf);
-    font-family:Acids;
-    
-    src: url(./fonts/Misty_Black.ttf);
-    font-family:Misty Black;
-
-    src: url(./fonts/Comic\ Kings.otf);
-    font-family:Comic Kings;
-
-    src: url(./fonts/GROBOLD.ttf);
-    font-family:Grobold;
-
-    src: url(./fonts/Holas.otf);
-    font-family: hello sunshine ;
-
-    src: url(./fonts/Candy\ Beans.otf);
-    font-family:Candy Beans;
-
-    src: url(./fonts/Bubblegum.ttf);
-    font-family:Bubblegum    ;
-
-    src: url(./fonts/Academic\ M54.ttf);
-    font-family:Academic M54    ;
-
-    src: url(./fonts/Gameplay.ttf);
-    font-family:Gameplay    ;
-
-    src: url(./fonts/I\ Love\ Glitter\ -\ OTF.otf);
-    font-family:iloveglitter    ;
-
-    src: url(./fonts/shaly.ttf);
-    font-family:Shaly    ;
-
-    src: url(./fonts/RAVIE.TTF);
-    font-family:Ravie    ;
-
-    src: url(./fonts/Starborn.ttf);
-    font-family:Starborn   ;
-
-    src: url(./fonts/Squirk.otf);
-    font-family:Squirk    ;
-
-    src: url(./fonts/FREESCPT.TTF);
-    font-family:Freestyle Script    ;
-
-    src: url(./fonts/Fingerling-Tall.ttf);
-    font-family:Fingerling Tall    ;
-
-    src: url(./fonts/cartoonist_kooky.ttf);
-    font-family:Cartoonist    ;
-
-    src: url(./fonts/Bloomer\ DEMO.otf);
-    font-family:Bloomer demo    ;
-
-    src: url(./fonts/Starfish.ttf);
-    font-family:Starfish    ;
-
-    src: url(./fonts/TASTY\ DONUTS.otf);
-    font-family:Tasty Donuts    ;
-
-    src: url(./fonts/the-roughly.ttf);
-    font-family:The Roughly   ;
-
+@font-face{
     src: url(./fonts/the-golden-roasted.ttf);
     font-family:The Golden Roasted    ;
 
-    src: url(./fonts/Cherish\ Moment.otf);
-    font-family:Cherish Moment   ;
+}
 
-    src: url(./fonts/BAUHS93.ttf);
-    font-family:Bauhaus;
+@font-face{
+    src: url(./fonts/the-roughly.ttf);
+    font-family:The Roughly   ;
+    
+}
+
+@font-face{
+    src: url(./fonts/TASTY\ DONUTS.otf);
+    font-family:Tasty Donuts    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Starfish.ttf);
+    font-family:Starfish    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Bloomer\ DEMO.otf);
+    font-family:Bloomer demo    ;
 
 }
+
+@font-face{
+    src: url(./fonts/cartoonist_kooky.ttf);
+    font-family:Cartoonist    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Fingerling-Tall.ttf);
+    font-family:Fingerling Tall    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/FREESCPT.TTF);
+    font-family:Freestyle Script    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/Squirk.otf);
+    font-family:Squirk    ;
+
+}
+
+@font-face{
+    src: url(./fonts/Starborn.ttf);
+    font-family:Starborn   ;
+    
+}
+
+@font-face{
+    src: url(./fonts/RAVIE.TTF);
+    font-family:Ravie    ;
+    
+}
+
+@font-face{
+    src: url(./fonts/summer-daisy-personal-use.ttf);
+    font-family:Summer Daisy Personal Use;
+    
+}
+
+@font-face{
+    src: url(./fonts/Watermelon\ Script\ Demo.ttf);
+    font-family:Watermelon Script Demo;
+
+}
+
+@font-face{
+    src: url(./fonts/Averus\ \(DEMO\).ttf);
+    font-family:Averus;
+    
+}
+
+@font-face{
+    src: url(./fonts/Acids!.otf);
+    font-family:Acids;
+    
+}
+
+@font-face{
+    src: url(./fonts/Misty_Black.ttf);
+    font-family:Misty Black;
+
+    
+}
+
+@font-face{
+    src: url(./fonts/Comic\ Kings.otf);
+    font-family:Comic Kings;
+
+}
+
+@font-face{
+    src: url(./fonts/GROBOLD.ttf);
+    font-family:Grobold;
+    
+}
+
 
 @font-face{
     src: url(./fonts/Minecrafter.Reg.ttf);
