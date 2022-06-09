@@ -35,6 +35,12 @@ function returnText(){
     document.getElementById("input33").innerHTML = input;
     document.getElementById("input34").innerHTML = input;
     document.getElementById("input35").innerHTML = input;
+    document.getElementById("input36").innerHTML = input;
+    document.getElementById("input37").innerHTML = input;
+    document.getElementById("input38").innerHTML = input;
+    document.getElementById("input39").innerHTML = input;
+    document.getElementById("input40").innerHTML = input;
+
 
 
 

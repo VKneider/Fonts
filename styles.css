@@ -193,8 +193,41 @@
 
 }
  
+
+@font-face{
+    src: url(./fonts/Cream\ Cake.otf);
+    font-family:Cream Cake;
+
+}
+
+
+@font-face{
+    src: url(./fonts/Harland\ Roselyn.ttf);
+    font-family:Harland Roselyn;
+
+}
+
+@font-face{
+    src: url(./fonts/Shink.otf);
+    font-family:Shink;
+
+}
+
+@font-face{
+    src: url(./fonts/Hunters.otf);
+    font-family:Hunters;
+
+}
+
+@font-face{
+    src: url(./fonts/Hello\ Valentina.ttf);
+    font-family:Hello Valentina;
+
+}
+
+
  
-.t1 ,.t2 ,.t3 ,.t4 ,.t5 ,.t6 ,.t7 ,.t8 ,.t9 ,.t10 ,.t11 ,.t12 ,.t13 ,.t14 ,.t15 ,.t16 ,.t17 ,.t18 ,.t19 ,.t20 ,.t21 ,.t22 ,.t23 ,.t24 ,.t25 ,.t26 ,.t27 ,.t28 ,.t29 ,.t30 ,.t31 ,.t32 ,.t33 ,.t34 ,.t35 {
+.t1 ,.t2 ,.t3 ,.t4 ,.t5 ,.t6 ,.t7 ,.t8 ,.t9 ,.t10 ,.t11 ,.t12 ,.t13 ,.t14 ,.t15 ,.t16 ,.t17 ,.t18 ,.t19 ,.t20 ,.t21 ,.t22 ,.t23 ,.t24 ,.t25 ,.t26 ,.t27 ,.t28 ,.t29 ,.t30 ,.t31 ,.t32 ,.t33 ,.t34 ,.t35, .t36 ,.t37,.t38,.t39,.t40,.t41 ,.t42   {
     font-size:120px;
     text-align: center;
     margin-top: 35px;
@@ -282,7 +315,13 @@ input {
 .t32 {font-family: the-roughly;}
 .t33 {font-family: the golden roasted;}
 .t34 {font-family: tasty donuts;}
-.t35 {font-family: ;}
+.t35 {font-family: Cream Cake;}
+.t36 {font-family: Hunters;}
+.t37 {font-family: Hello Valentina;}
+.t38 {font-family: Shink;}
+.t39 {font-family: Harland Roselyn;}
+
+
 
 
 
